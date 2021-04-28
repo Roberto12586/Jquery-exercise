@@ -5,7 +5,7 @@ Maquetación de web tipo blog.
 
 Ejercicio para practicar funcionalidades de Jquery Javascript.
 
-Contiene slider mediante plugin, post como JSON mostarados dinámicamente, selector de tema web, login "falso" (localstorage), reloj en javascript y formulario con validación.
+Contiene slider mediante plugin, post como JSON mostrados dinámicamente, selector de tema web, login "falso" (localstorage), reloj en javascript y formulario con validación.
 #
 
 Blog type web layout.
