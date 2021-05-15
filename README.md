@@ -20,10 +20,6 @@ Contains slider through plugin, post as JSON displayed dynamically, web theme se
 
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fHySKMS/2.jpg)
-
   
 ## Authors
 
