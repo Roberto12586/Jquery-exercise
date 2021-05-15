@@ -7,7 +7,9 @@ Ejercicio para practicar funcionalidades de JqueryUI Javascript.
 
 Contiene slider mediante plugin, post como JSON mostrados dinámicamente, selector de tema web, login "falso" (localstorage), reloj en javascript y formulario con validación.
 
-![3](https://user-images.githubusercontent.com/38353024/118357960-e8214a00-b57c-11eb-81e4-9a6a17debad4.gif)
+
+![32](https://user-images.githubusercontent.com/38353024/118358024-40584c00-b57d-11eb-88d3-d38b2b613f29.gif)
+
 
 ##
 
